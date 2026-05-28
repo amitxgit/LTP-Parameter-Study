@@ -12,3 +12,10 @@ This repository publicly shares only:
 - measurement-control framework,
 - PyVISA instrumentation code,
 - statistical-processing workflow.
+
+
+## Disclaimer
+
+This repository is intended for educational and research-reference purposes only.
+
+The experimental work associated with this project was carried out at CSIR-National Physical Laboratory (CSIR-NPL), New Delhi. Experimental datasets, plots, and institution-owned characterization results are not publicly distributed.
