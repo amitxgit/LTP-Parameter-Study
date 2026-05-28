@@ -9,8 +9,6 @@ Analysis code for investigating Long-Term Potentiation (LTP) characteristics in 
 Experimental datasets, measured figures, and characterization results are not included in this repository because the experimental work was conducted at CSIR-National Physical Laboratory (CSIR-NPL), and the associated measurement data remains institutional property.
 
 This repository publicly shares only:
-- automation scripts,
 - measurement-control framework,
 - PyVISA instrumentation code,
-- analysis pipeline structure,
 - statistical-processing workflow.
